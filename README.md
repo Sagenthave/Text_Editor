@@ -34,7 +34,8 @@
 
 # Resources 
 - PWA Mini-Project 
+- Tareque (Assistant Instructor): Deployment
 
 # Deployment
-- GitHub: 
-- Video: 
+- GitHub: https://github.com/Sagenthave/Text_Editor
+- Link: https://sagenthavetexteditor-707edcebc32e.herokuapp.com/  
