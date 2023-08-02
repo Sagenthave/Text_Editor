@@ -1,5 +1,7 @@
 # Text Editor Starter Code
 
+![screenshot](/Screenshot%202023-08-01%20at%208.04.09%20PM.png)
+
 # User Story
 - AS A developer
 - I WANT to create notes or code snippets with or without an internet connection
